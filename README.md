@@ -1,5 +1,12 @@
-## Hi there 👋
-
+## Conor James Giles (mkgiles) (he/him)
+### Polyglot programmer with more hobbies than sense.
+- 🎓 I have a Bachelor's Degree in Automotive software.
+- ✨ My favourite language to develop in is Kotlin.
+- 🖥️ I have coming up to five years experience in JVM Enterprise software development with Spring Boot, in node.js back-end development, and in React front-end development.
+- 🌱 I'm currently learning Rust and Go.
+- 🌏 I speak English, Irish, French, Japanese, and Dutch, and am currently learning Mandarin. Feel free to reach out!
+- 🦣 I am on [mastodon](https://mastodon.ie/@mkgiles) and [twitter](https://twitter.com/mkgiles), and have a slow to update [blog](https://mkgiles.net) where I'm currently working on a series about date-time code.
+- ⚡ I actually like regular expressions.
 <!--
 **mkgiles/mkgiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
